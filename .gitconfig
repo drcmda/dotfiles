@@ -1,7 +1,7 @@
 [init]
 	defaultBranch = main
 [user]
-	name = Paul Henschel
+	name = —
 	email = drcmda@gmail.com
 [core]
 	editor = nano
